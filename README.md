@@ -131,4 +131,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  Friday 13 June 2025 url is now responsive
+
+
+Update:  16.06.2025 Link is now clickable and accessible
